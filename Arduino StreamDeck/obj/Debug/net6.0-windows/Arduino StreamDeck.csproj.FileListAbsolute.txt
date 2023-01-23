@@ -1,0 +1,33 @@
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\Arduino StreamDeck.exe
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\Arduino StreamDeck.deps.json
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\Arduino StreamDeck.runtimeconfig.json
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\Arduino StreamDeck.dll
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\Arduino StreamDeck.pdb
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\obj\Debug\net6.0-windows\Arduino StreamDeck.csproj.AssemblyReference.cache
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\obj\Debug\net6.0-windows\Arduino_StreamDeck.Form1.resources
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\obj\Debug\net6.0-windows\Arduino StreamDeck.csproj.GenerateResource.cache
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\obj\Debug\net6.0-windows\Arduino StreamDeck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\obj\Debug\net6.0-windows\Arduino StreamDeck.AssemblyInfoInputs.cache
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\obj\Debug\net6.0-windows\Arduino StreamDeck.AssemblyInfo.cs
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\obj\Debug\net6.0-windows\Arduino StreamDeck.csproj.CoreCompileInputs.cache
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\obj\Debug\net6.0-windows\Arduino StreamDeck.csproj.CopyComplete
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\obj\Debug\net6.0-windows\Arduino StreamDeck.dll
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\obj\Debug\net6.0-windows\refint\Arduino StreamDeck.dll
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\obj\Debug\net6.0-windows\Arduino StreamDeck.pdb
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\obj\Debug\net6.0-windows\Arduino StreamDeck.genruntimeconfig.cache
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\obj\Debug\net6.0-windows\ref\Arduino StreamDeck.dll
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\Arduino StreamDeck.dll.config
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\obj\Debug\net6.0-windows\Arduino_StreamDeck.Properties.Resources.resources
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\AudioSwitcher.AudioApi.dll
+C:\Users\chj29\source\repos\Arduino StreamDeck\Arduino StreamDeck\bin\Debug\net6.0-windows\AudioSwitcher.AudioApi.CoreAudio.dll
